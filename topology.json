@@ -1,0 +1,36 @@
+{
+  "devices": [
+    {
+      "id": "sw1",
+      "type": "switch",
+      "name": "Switch1",
+      "model": "Cisco 2960-24TT",
+      "x": 300,
+      "y": 200
+    },
+    {
+      "id": "rt1",
+      "type": "router",
+      "name": "Router1",
+      "model": "Cisco 2911",
+      "x": 520,
+      "y": 180
+    },
+    {
+      "id": "pc1",
+      "type": "pc",
+      "name": "PC1",
+      "model": "PC (Windows)",
+      "x": 160,
+      "y": 340
+    },
+    {
+      "id": "pc2",
+      "type": "pc",
+      "name": "PC2",
+      "model": "PC (Windows)",
+      "x": 320,
+      "y": 360
+    }
+  ]
+}
